@@ -22,7 +22,3 @@ To use the profile generator:
   
 ![image](https://user-images.githubusercontent.com/90112060/191535799-4dc4e9e4-26cd-472d-87c7-35dccc1cb3c8.png)
 
-
-## Link to Demo Video:
-
-https://stezzzy.github.io/coding-quiz/
